@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dhruv Upadhyay</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-- 📧 **You can contact me at udhruv444@gmail.com**
-
-- 🧑‍💻 **Hello, I'm Dhruv. I'm a front-end developer working with React, Next.js**
+- 🧑‍💻 **Hello, I'm Dhruv, A front-end developer working with React.**
 
 - 🌐 **I'm based in Madhya Pradesh, India.**
 
-- ✍️ **I'm learning Docker, CI/CD and Cloud Methodologies**
+- ✍️ **I'm learning Docker, CI/CD and Cloud Methodologies.**
+
+- 📧 **You can contact me at udhruv444@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
