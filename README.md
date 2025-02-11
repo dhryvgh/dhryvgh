@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Upadhyay</h1>
-<h3 align="center">A Frontend Developer</h3>
 
-- 🧑‍💻 **Hello, I'm Dhruv, A front-end developer working with React.**
+- 🧑‍💻 **Hello, I'm Dhruv, An Aspiring Software Engineer**
 
 - 🌐 **I'm based in Madhya Pradesh, India.**
 
