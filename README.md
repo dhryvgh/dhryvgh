@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Upadhyay</h1>
 
-- 🧑‍💻 **Hello I'm Dhruv, An Aspiring Software Engineer. **
+- 🧑‍💻 **Hello I'm Dhruv, An Aspiring Software Engineer.**
 
 - 🌐 **I'm based in Madhya Pradesh, India.**
 
