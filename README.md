@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋, I'm Dhruv Upadhyay<br><br>- 🧑‍💻 Hello I'm Dhruv, an aspiring Software Engineer.<br>- 🌐 I'm based in Madhya Pradesh, India.<br>- ✍️ I'm learning Go, Docker and CI/CD.<br>- 📧 You can contact me at udhruv444@gmail.com</p>
+<p align="left">Hi 👋, I'm Dhruv Upadhyay<br><br>- 🧑‍💻 I'm an aspiring Software Engineer.<br>- 🌐 I'm based in Madhya Pradesh, India.<br>- ✍️ I'm learning Go, Docker and CI/CD.<br>- 📧 You can contact me at udhruv444@gmail.com</p>
 
 ###
 
