@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey 👋, I'm Dhruv <br><br>- 🧑‍💻 I'm an aspiring Software Engineer.<br>- 🌐 I'm based in Madhya Pradesh, India.<br>- ✍️ I'm learning Go, Docker and CI/CD.<br>- 📧 You can contact me at udhruv444@gmail.com</p>
+<p align="left">Hi 👋, I'm Dhruv Upadhyay<br><br>- 🧑‍💻 Hello I'm Dhruv, an aspiring Software Engineer.<br><br>- 🌐 I'm based in Madhya Pradesh, India.<br><br>- ✍️ I'm learning Go, Docker and CI/CD.<br><br>- 📧 You can contact me at <a href="mailto:udhruv444@gmail.com">udhruv444@gmail.com</a></p>
 
 ###
 
@@ -53,3 +53,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhryvgh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/dhryvgh/dhryvgh/output/snake.svg" alt="Snake animation" />
+
+###
