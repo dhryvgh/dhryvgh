@@ -1,17 +1,19 @@
 ## Hi 👋 I'm Dhruv Upadhyay
 
 ### 🧑‍💻 About Me
-I'm an aspiring Software Engineer from Madhya Pradesh, India, with a Bachelor's in Computer Science.
+I'm an aspiring Software Engineer from Madhya Pradesh, India, with a Bachelor's in Computer Science, currently learning Go, Docker, Kubernetes, and CI/CD Pipelines.
 
 ---
 
 ### 🚀 What I'm Up To
+- ⚡ Exploring **Cloud Technologies** with **Google Cloud Platform**
+- 🔥 Building **Full-Stack Applications** using **React & Django**
 - 💡 Learning **Go** for backend development
 - 📦 Diving into **Docker, Kubernetes, and CI/CD Pipelines**
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 #### Languages:
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,6 +35,12 @@ I'm an aspiring Software Engineer from Madhya Pradesh, India, with a Bachelor's 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=dhryvgh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhryvgh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
