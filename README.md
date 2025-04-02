@@ -1,13 +1,11 @@
 ## Hi 👋 I'm Dhruv Upadhyay
 
 ### 🧑‍💻 About Me
-I'm an aspiring Software Engineer from Madhya Pradesh, India, with a Bachelor's in Computer Science, currently learning Go, Docker, Kubernetes, and CI/CD Pipelines.
+I'm an aspiring Software Engineer from Madhya Pradesh, India, with a Bachelor's in Computer Science.
 
 ---
 
 ### 🚀 What I'm Up To
-- ⚡ Exploring **Cloud Technologies** with **Google Cloud Platform**
-- 🔥 Building **Full-Stack Applications** using **React & Django**
 - 💡 Learning **Go** for backend development
 - 📦 Diving into **Docker, Kubernetes, and CI/CD Pipelines**
 
