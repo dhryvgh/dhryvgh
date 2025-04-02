@@ -36,7 +36,7 @@ I'm an aspiring Software Engineer from Madhya Pradesh, India, with a Bachelor's 
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dhryvgh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhryvgh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
