@@ -1,1 +1,17 @@
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@72fa7837-9739-4aa5-8af1-106215d9fd3f/8b7422a0-6b33-4f4c-a9aa-603a03052d9c.png" /></a>
+# Skills
+
+## Languages
+C++, JavaScript, TypeScript, HTML5, CSS3
+
+## Frameworks and Libraries
+React, Next.js, TailwindCSS
+
+## Developer Tools and Platforms
+Git, GitHub, Linux, Vercel, Figma, Appwrite
+
+---
+
+# GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=dhryvgh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhryvgh&theme=github_dark&hide_border=false&layout=compact)
